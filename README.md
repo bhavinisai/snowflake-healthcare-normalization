@@ -19,7 +19,7 @@ The legacy dataset used in this project is a flat CSV file containing a mix of c
 ### Patient Details
 - `patient_id`, `patient_first_name`, `patient_last_name`
 - `patient_date_of_birth`, `patient_gender`
-- Full address, phone, and email
+- patient's address, phone, and email
 
 ### Visit Information
 - `visit_id`, `visit_datetime`, `visit_type`
@@ -58,16 +58,8 @@ The dataset may contain duplicate or null values, or inconsistencies and is pre-
 This project implements a **Snowflake Schema**, consisting of: 
 
 ### Dimension Tables: 
-- `DimPatient`
-- `DimInsurance`
-- `DimBilling`
-- `DimProvider`
-- `DimLocation`
-- `DimPrimaryDiagnosis`
-- `DimSecondaryDiagnosis`
-- `DimTreatment`
-- `DimPrescription`
-- `DimLabOrder`
+`DimPatient`, `DimInsurance`, `DimBilling`, `DimProvider`, `DimLocation`, `DimPrimaryDiagnosis`, `DimSecondaryDiagnosis`
+`DimTreatment`, `DimPrescription`, `DimLabOrder`
 
 ### Fact Table: 
 - `FactVisit` — references all dimension tables via foreign keys
@@ -104,11 +96,9 @@ The script will
 - create 10 dimension tables and a FactVisit table
 - export each table into a CSV file in the `output/` directory
 
-![Snowflake Schema](snowflake/healthcare_diagram.webp)
-
 ---
 
-## Output Files
+## Output
 
 The following files which have fully normalized tables will be generated after processing: 
 
@@ -138,8 +128,9 @@ To ensure the correctness of the normalized data:
 
 ## Tableau Visualization
 
-**[Legacy Healthcare Dashboard](https://public.tableau.com/app/profile/bhavini.sai.mallu/viz/LegacyHealthcare-DSCI644Project3/Dashboard1)**
+[Healthcare Dashboard](https://public.tableau.com/app/profile/bhavini.sai.mallu/viz/LegacyHealthcare-DSCI644Project3/Dashboard1)
 
+The dashboard contains: 
 - **Monthly Visit Trends** – Tracks seasonal patient flow
 - **Clinic & Visit Type Distribution** – Treemap showing load by clinic and visit category
 - **Department Visits by Gender** – Gender breakdown across departments
@@ -155,6 +146,6 @@ Graduate Student
 Rochester Institute of Technology  
 bm5726@g.rit.edu
 
-This project was completed as part of the DSCI-644 course: Software Engineering for Data Science, with a focus on healthcare data normalization and visualization using PySpark and Tableau.
+This project was completed as part of the DSCI-644 course: Software Engineering for Data Science at Rochester Institute of Technology, with a focus on healthcare data normalization and visualization using PySpark and Tableau.
 
 ---
