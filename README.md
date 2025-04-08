@@ -1,4 +1,4 @@
-# Legacy Healthcare Data Normalization using PySpark and Tableau
+# Legacy Healthcare Data Normalization
 
 ## Project Overview
 
