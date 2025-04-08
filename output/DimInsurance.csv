@@ -1,0 +1,548 @@
+insurance_id,patient_id,insurance_payer_name,insurance_policy_number,insurance_group_number,insurance_plan_type
+001dd3b9,72554a72,Foster-Castillo,c71815dd-a60,ca511458,Medicare
+0082972d,1b73528d,Johnson-Graham,60de5bfa-43a,fb66b4ca,HMO
+00d7499d,1e3dfdee,Johnson-Graham,09cc0ea6-556,57338431,Medicaid
+01148713,97a3ca61,Johnson-Graham,c66c626a-c00,32e20455,Medicare
+014de844,70900cac,Foster-Castillo,e340153f-452,bf4d8917,HMO
+016a79e6,cdc849b0,Foster-Castillo,74ec2b64-c88,57cc55dd,PPO
+0185a4b9,8b754e28,Torres Group,ef820db2-805,4941e243,Medicaid
+01acfaa5,77785b07,Foster-Castillo,9ef983ee-05b,2b582238,PPO
+01e713b0,c72b4ebf,Berry PLC,505c7ff8-84b,2d17f42e,PPO
+028f41dc,668db1d2,Foster-Castillo,4760c58a-607,66ca70c1,Medicaid
+0294a64e,62bdcdb4,Foster-Castillo,393c9206-656,a5fa60a4,PPO
+02d65746,07d0250c,Martin-Morton,c028763e-83b,6f0f039b,Medicare
+02e0f912,efd0a0ba,Johnson-Graham,7ea4bb09-c55,3652afbf,PPO
+02f29fde,bd07edf7,Foster-Castillo,52fb128b-f02,1b2ee47c,PPO
+03daba3f,9483c1d1,Torres Group,75e3dafa-ccb,6c790a4d,HMO
+042809e2,5e6f7698,Johnson-Graham,936d2a3f-167,654b780c,Medicaid
+042f58d3,07cc058e,Johnson-Graham,515f6265-923,585fd2e9,Medicaid
+04e6cd2c,49329fb8,Johnson-Graham,4821577f-739,1a678586,PPO
+05c3155f,0bcdb2de,Foster-Castillo,e7afea03-353,7c91dcba,Medicaid
+0607054c,cc27c76a,Foster-Castillo,8ba3b7f3-dfe,00a04884,HMO
+068b9f7c,210deabf,Johnson-Graham,8e9da3b4-270,dc33339d,Medicare
+071cfa2e,c8623b2d,Foster-Castillo,1da8dade-8dd,b3aaba8e,Medicaid
+07e78ea3,0ec048f6,Foster-Castillo,aad5b279-f8a,05ae230d,HMO
+08e36ed6,03890239,Johnson-Graham,d93ad448-d83,cdbefd9e,PPO
+0a1e3acc,7dbaa88e,Foster-Castillo,38a96a35-66e,07208f32,HMO
+0aa39a6d,cb4d1292,Torres Group,bda200ba-737,24ba5b00,Medicaid
+0ab972f3,c6f4d3c6,Berry PLC,77ea8c86-9de,06819c01,PPO
+0b2cbec7,c28d7664,Torres Group,1a578a40-4da,c2dc20aa,Medicare
+0bff246b,2e2ca2e9,Johnson-Graham,bc4b7e10-d4b,a4751d7b,Medicare
+0c0f6739,86f19b1e,Johnson-Graham,4f3a4bc0-b4f,9c70ffb1,HMO
+0c1f38cf,0ebdf3a4,Johnson-Graham,0e30babe-c0a,52b22ca8,Medicare
+0c63dc42,d73a6950,Johnson-Graham,f20bb20d-afe,0c745679,PPO
+0c6edc1d,5f21a491,Torres Group,c101575a-4dd,f63a60cd,Medicare
+0dfe6d02,f317a8d7,Foster-Castillo,17e2fb23-509,3abcf974,HMO
+0ed5e4af,1f345d51,Johnson-Graham,d155b670-c04,1071ab5f,Medicare
+0ee3ed53,b8bf303b,Berry PLC,850a304d-985,1439cbe2,HMO
+0f0eaa2f,6d4b66e5,Johnson-Graham,1fc040f6-050,7decf49b,Medicare
+0f4f5ee0,b9950a9b,Martin-Morton,edb4c2ac-e51,15134e46,Medicaid
+0f834c11,d40a9440,Torres Group,236fab6c-af9,2691cb3f,Medicaid
+1007513e,d5151787,Torres Group,18bea620-cb8,6ae098fc,Medicaid
+1093041f,05a28d56,Johnson-Graham,6601ddf3-021,eab399d8,Medicare
+10b87a7a,5363d3d7,Johnson-Graham,9b0807aa-dbe,431f09df,Medicare
+10c42a7c,865e7db6,Foster-Castillo,96717a7e-908,ff759639,Medicare
+1252b79e,57add056,Torres Group,c859ed34-669,604512dc,PPO
+126d41ae,c2c6b297,Torres Group,221b325e-295,ba2c0ef9,Medicaid
+128e72f6,46704f98,Martin-Morton,8bc5bf98-eb3,e5f05c57,Medicaid
+1319756d,714e9c04,Torres Group,c55e96f0-015,5fa3e2c3,Medicare
+135b4b3e,b20e5cb8,Torres Group,92be533e-0ea,037df963,Medicaid
+14751887,eb89be28,Berry PLC,f450fff8-09e,80f3f7da,Medicaid
+14c64fbb,0fb16517,Torres Group,19d98561-02e,a0190f6a,PPO
+14d31c17,973e2929,Berry PLC,f96ff69e-119,278d7de6,Medicaid
+156f8e88,7849a2f2,Foster-Castillo,8371687d-076,1bf42e48,Medicaid
+166a95f1,698de87f,Foster-Castillo,aaa93938-0cc,2c61db13,Medicare
+1689effd,6cd98121,Foster-Castillo,b7b794bd-e87,e114993d,Medicare
+193333e4,0b37e668,Johnson-Graham,08a47f0f-117,efb65886,HMO
+19b3bdd8,5204f13f,Berry PLC,4643105b-964,c2ce17b1,PPO
+19eb6091,490f0ea5,Foster-Castillo,d2b8e1fa-668,6c048da9,HMO
+1a0fbb18,722c5cc1,Martin-Morton,04cbfca5-c64,b70de0d3,Medicare
+1a6f9c60,775cccd5,Torres Group,c49e822d-2bc,69cdd296,HMO
+1a9aee32,18b1daa6,Martin-Morton,70efba5e-d93,db5854fb,HMO
+1b8a4554,48b01eb6,Berry PLC,b2a4e4c2-a60,24676992,HMO
+1b8d9183,25c4c1f5,Foster-Castillo,0ba1a6ff-0b3,173d8def,Medicaid
+1ba81baf,4106fea8,Foster-Castillo,1798acb4-442,d8f67e68,Medicare
+1bca864f,617f72de,Berry PLC,425b9e1a-156,ff087f41,Medicaid
+1c05012e,d5498a9c,Torres Group,4a1798e2-dd9,9c9d08e5,HMO
+1d8cc7a2,8eeb9b03,Foster-Castillo,d71986f0-7bf,9d1d58ad,Medicaid
+1dc767ec,fafc00f6,Johnson-Graham,22ed5c04-f1e,480ad5d9,PPO
+1e5c7463,3d5306e9,Berry PLC,d8c5ac9c-a0d,40d568fa,Medicare
+1e758861,95ce5f6b,Foster-Castillo,0dc7f430-5ff,a75551de,Medicaid
+1e904496,260c8fa4,Torres Group,82d41fba-ecb,67a56dd4,PPO
+1ea3c7e3,eeed5e2f,Johnson-Graham,a25f3f24-12b,c84a8e9f,HMO
+1ec25278,e41f3324,Foster-Castillo,f3ff1abc-2db,e347618a,Medicaid
+1ecd4134,6dffb8b2,Torres Group,80e38b23-11b,3680331c,Medicaid
+205cbea7,c0889652,Berry PLC,9058eedd-4cf,4761bbb7,HMO
+20abcc7a,e7cd9764,Martin-Morton,aa0bae4b-e1d,64bd42ba,HMO
+2145f0e6,8ed0330c,Johnson-Graham,c640d02b-f28,e26d0749,PPO
+21c1172c,6afffc8f,Foster-Castillo,5bd84cdd-cdc,dbac5bd6,HMO
+22f84ab3,95f39064,Foster-Castillo,9e179595-827,d4a47696,Medicare
+248dba8c,bd34e559,Berry PLC,c5238120-9d9,ede77422,Medicare
+2567c523,ded197d4,Johnson-Graham,659f3aae-184,a448e03c,Medicare
+256e1a76,05e8b740,Berry PLC,f3b9d36d-b30,260b3019,Medicare
+270c8838,170322b9,Johnson-Graham,bfaecee0-05c,71bd5c7d,Medicare
+27f182cf,e9aa932b,Foster-Castillo,55064b4c-6b1,9f1788d3,HMO
+28482485,ab0d83e3,Johnson-Graham,547bb120-496,5b6aa6dc,PPO
+292e693e,abc22390,Martin-Morton,63bc7c4b-3a9,9e8f727b,Medicare
+297c2a20,f4db2f21,Johnson-Graham,101d2bdf-4d9,ab51cb78,Medicaid
+2a0a8275,b6ff2de3,Berry PLC,f397c37d-5b5,1cbedbb0,Medicaid
+2a0c1761,872bc089,Foster-Castillo,981358b3-ae9,6a9c0a65,HMO
+2a3888a5,b6989dcc,Johnson-Graham,54609fd7-e83,0c9036a4,HMO
+2a4083ec,e7f39e88,Berry PLC,d43a8f22-975,cb13a3bf,Medicaid
+2a454a5d,6ff2ae82,Foster-Castillo,96f1b4e9-13c,9cf5bdc9,Medicaid
+2abe356f,b68687ae,Johnson-Graham,a17498e0-68e,3c0f665e,Medicaid
+2af25d1b,fb094f27,Martin-Morton,18007c42-8e6,755a0b4a,Medicaid
+2b65f5a6,9335ff2c,Johnson-Graham,fd45539a-316,fa745aa8,Medicare
+2ba8b9c6,d41d7969,Berry PLC,1f9596db-c15,c23817bf,Medicare
+2c6842dc,52ac11c7,Martin-Morton,c4405bb9-427,6bf8fd92,HMO
+2c730d01,4316308c,Foster-Castillo,ab1fcc26-bb3,7aeb544e,Medicaid
+2d664d00,b83f5cb2,Berry PLC,d65f56cd-b74,b0652778,PPO
+2e03a4ec,c5735189,Berry PLC,ad71cc6a-458,82bbce73,Medicare
+2e62b3b3,cec84529,Torres Group,684c25ad-48f,0f382b07,Medicare
+2ec66cd2,d3caa06d,Torres Group,252ced80-34a,cff7473f,HMO
+2ed16c73,f278ebf9,Berry PLC,d738016c-bd4,5c66c4dc,HMO
+2f72885f,0cdf3e52,Martin-Morton,3f6db09b-54b,5479aa6e,Medicare
+2fd444ec,2b78883c,Foster-Castillo,3617eeac-b31,22f50dce,Medicaid
+2fd64826,b15b840c,Martin-Morton,e952bc10-0d1,e373d41b,Medicaid
+2fd831b4,2eaf9bc3,Foster-Castillo,46c2b73a-a98,b9672ec0,PPO
+31000f91,117a8305,Johnson-Graham,2eeab837-260,8ff34558,Medicaid
+3132bee0,48b4dbce,Martin-Morton,be9f71f5-fa1,2397e86e,Medicare
+3240288c,f947ba6e,Johnson-Graham,be640072-3fd,8277e7e5,Medicare
+326e6a61,959a6adc,Martin-Morton,f41a97be-4ad,7bd17d32,PPO
+33355652,1abc0f28,Foster-Castillo,ce2b73a8-35e,c8a34126,PPO
+3370287a,9794978e,Foster-Castillo,8f664b27-d6b,3a13696f,PPO
+33eac976,1ec69fab,Foster-Castillo,a43f7c5d-e67,664eaa66,HMO
+34874251,64c2aab4,Johnson-Graham,2a5abdbd-b2b,d79962cd,HMO
+34b2e611,f56fa76b,Berry PLC,0df8895d-045,f092cb07,HMO
+34d27b11,080cecf3,Torres Group,65713c65-672,28dd1893,PPO
+34d7cb43,74de206e,Martin-Morton,707e4bb0-104,b146498d,PPO
+358c80b9,ee4a0bcc,Martin-Morton,315f12f8-759,1f1d8d44,HMO
+36a3e632,ec50fe01,Martin-Morton,0b4b5a4f-939,0c4723eb,PPO
+3732a4aa,2abba1fa,Martin-Morton,ac77a269-e71,45c14f4e,PPO
+3786d8c1,b740bf2b,Martin-Morton,f5453658-f5d,25d7b427,PPO
+380645f0,cc97e647,Johnson-Graham,43142469-2e5,5da4510f,Medicaid
+383ce333,8b3f1e44,Torres Group,cfe1ca90-54b,eac30c80,HMO
+3878211d,3f2ae21e,Torres Group,200a0bf7-12b,259797e7,PPO
+38b7e018,7eeddce5,Torres Group,55738bc4-fe1,51212014,Medicaid
+39c55d7a,d6bbcc32,Berry PLC,bf879503-d94,d37656b9,PPO
+39d81cf9,b4709f13,Johnson-Graham,d9f5d970-144,cc0472dd,HMO
+3a500d1f,6fb5b37a,Torres Group,9d05952a-923,0e9a4384,PPO
+3c5b5dd1,f41bcc5a,Torres Group,12db12a1-d52,3c21a9dc,PPO
+3d0f3151,834587ac,Foster-Castillo,05bdd76c-59a,ad4c037f,HMO
+3d341468,8166dd8d,Berry PLC,475f5c05-542,9facb0ef,HMO
+3e159cf2,236c89b6,Berry PLC,f90774d0-f21,75cc98a1,HMO
+3e4c90ab,9dd10984,Berry PLC,8da7429e-1b4,2deaa49c,PPO
+3ec77a74,503c8e57,Foster-Castillo,9031cf83-986,5b97dbda,PPO
+3fcf2649,085031e8,Martin-Morton,f11be66f-fc1,16293001,Medicare
+40a0568a,65d2cda3,Torres Group,0eff75c7-2db,7e4adb4b,HMO
+4383ddc0,9835f116,Johnson-Graham,4b074e80-94f,87e1a607,HMO
+43868e16,f734853f,Johnson-Graham,2f8d23bd-403,6b808ad1,Medicaid
+43a6e011,3ea716cb,Foster-Castillo,15c8b9f2-376,5c8eb00b,HMO
+44079b10,bfa6a462,Torres Group,9b7ae72d-6f4,7618f762,Medicare
+44d0ad2d,fd91bda6,Foster-Castillo,b74c346c-d0b,26e014bd,Medicaid
+4513736f,51d6b206,Martin-Morton,6f824746-b8c,e0d8332e,HMO
+45819592,7cf459a4,Martin-Morton,33c9dad6-be1,4a22f6ad,HMO
+459fa364,7ee1f37e,Foster-Castillo,d5b83964-3dd,3c751ec8,Medicaid
+46330ead,c0b6d1f8,Foster-Castillo,6415e989-6d2,a61ea061,Medicaid
+468d42f2,518638bc,Torres Group,d72399d7-15b,cdc1bf58,Medicaid
+4769f39d,628def71,Johnson-Graham,554bccb5-839,5b0790f7,Medicaid
+4790392a,3ddc5bdd,Berry PLC,2e1f0a6f-b14,b619ccd2,PPO
+47d928f7,48359bdc,Foster-Castillo,2a91386f-d4f,d26d6486,HMO
+47d998e3,b2cc250c,Johnson-Graham,81aea589-0bf,ebe2d6cb,Medicaid
+486c1154,ff54ff41,Berry PLC,5d13b74d-aa1,a05d379c,HMO
+48a96beb,56735513,Johnson-Graham,85e54345-362,d4083b9d,HMO
+49257546,35a717b0,Torres Group,0841a891-bbf,87bf65cc,PPO
+49c5c785,74e96992,Johnson-Graham,bbba7c7a-04c,3f9c7024,Medicare
+4b6aab66,90e40b62,Martin-Morton,42beb230-227,d70bc6af,PPO
+4ce5310c,8ae9c6d2,Berry PLC,00be35c8-c98,fb44dd9a,PPO
+4d48067b,733a4e72,Foster-Castillo,5d66fc15-9f3,75343c2f,Medicare
+4d574529,103ac670,Martin-Morton,c1b26c88-258,2a6a41a1,PPO
+4d5e1e46,23fbb74a,Torres Group,bdb326e7-7d6,6f5c048a,HMO
+4de83eef,076959ca,Johnson-Graham,34695b1a-7d5,1e4875ac,PPO
+4e7b72d5,40859fdf,Berry PLC,1f5c966f-ff9,f7f481e1,HMO
+4ef5daf2,a7b005ea,Berry PLC,ade4cabd-9a1,206cfd6d,Medicaid
+4f222923,49bb0b5a,Torres Group,346f640d-158,21f0aab5,PPO
+4fac2380,00c01e39,Johnson-Graham,c1819083-f4d,94fea5b1,Medicaid
+5121ec08,836d5af7,Berry PLC,0f391815-44f,3ae691e7,HMO
+5124a702,eab2d63b,Berry PLC,4d2fdc5a-1e0,1eee3dca,Medicare
+52a806ac,42ac0352,Johnson-Graham,9cca2d79-94c,e3baa01d,Medicare
+52b8bb69,ab36c6e5,Berry PLC,0cd0eadf-baf,579697ed,Medicare
+52d73e62,171d495e,Martin-Morton,cae91d70-1d1,4db0061b,Medicaid
+52ff53a7,0c2758ca,Berry PLC,0c4ce5e2-9e9,a603fac8,Medicaid
+537ebb5a,b2e405e4,Martin-Morton,0fc2a90b-bbb,85994c8c,Medicare
+53ca090f,db61f834,Foster-Castillo,437baa4d-102,5065ad46,Medicaid
+54932314,e04d9d65,Foster-Castillo,d54b2080-2c9,bac60350,Medicare
+563435e9,2dfaeeb8,Torres Group,c9c3b58b-d75,487b5159,Medicaid
+56823fee,e96e1d57,Torres Group,0ee11fb6-055,0ea5bd06,PPO
+56e80476,404ed469,Johnson-Graham,95c60ccf-6e8,4859b07d,Medicaid
+57e4017d,2d8e7151,Johnson-Graham,4e5389df-63b,b2448d54,HMO
+58dcca7a,2f858826,Johnson-Graham,26c1db28-61d,6de9c2d6,PPO
+5995ba79,52896a28,Berry PLC,a381764a-537,e29758bf,HMO
+5a02dd19,a137ef26,Berry PLC,1391c5d3-711,ecbfdad0,Medicare
+5a875484,e363fa12,Torres Group,33e2a6b8-060,9801628e,Medicare
+5abcebad,dc23f6dd,Foster-Castillo,074d15db-18c,d002e928,HMO
+5c50cc64,e969dc87,Johnson-Graham,3d752ecc-ecd,34f2f9fa,Medicare
+5c8be199,9d82ef4b,Foster-Castillo,b18e32de-f29,333aaf88,Medicare
+5d7319f7,697ea349,Martin-Morton,9198a484-225,76612d4d,Medicare
+5da730ee,a9de2c5a,Johnson-Graham,f7988570-b23,d3e0251b,PPO
+5e7eb9c1,476f6769,Johnson-Graham,58cf28ca-de6,28d0ff9c,HMO
+5f3d3d5a,461cfad5,Berry PLC,c30a1d48-76b,a032e8a3,Medicaid
+5f54e68a,90912ce1,Foster-Castillo,729b447f-7e7,e97097bc,PPO
+5fb2bc68,62015ef6,Berry PLC,563df1b2-aa5,cc3be9ce,Medicare
+5ffd51b9,5d3c4fa2,Martin-Morton,1382734a-a44,015d3094,Medicaid
+602860e3,e683b90c,Johnson-Graham,18843c69-3ca,9b6bd4bc,HMO
+60342005,a1a710cd,Foster-Castillo,54dc40ea-6d2,320a3023,Medicaid
+6048839a,722dee9a,Foster-Castillo,459252e3-9c6,c62ca172,Medicaid
+60d1115f,c30f534c,Berry PLC,0623f1cb-d5e,754a7e07,PPO
+60e49b25,f849b5b9,Berry PLC,3aa29dd2-7b2,9cc8abf1,HMO
+6153b7c4,cd809015,Torres Group,58fbefea-e56,9f9d8f27,PPO
+61b4994f,2c8adcf9,Berry PLC,f64c643e-4f5,97e075fa,Medicaid
+61c1b2f2,08cd7342,Torres Group,3e42ebb5-e00,9747868b,HMO
+6226bab4,7c5716fd,Berry PLC,cf11f3c2-59e,abcb3c01,PPO
+626a0ced,bef36b20,Torres Group,03a5307b-d58,38f0240c,HMO
+62b0b5fb,235d2bef,Johnson-Graham,f7a846b9-feb,38164e07,PPO
+6324618a,54bc667a,Martin-Morton,5cf65394-84e,aafcc353,HMO
+633405b5,c9e28bec,Torres Group,a6c72038-8f1,f53e183a,HMO
+640901ba,adcf9d8b,Berry PLC,c9e8cd0e-6bc,b5451664,Medicaid
+647c0636,d70b5b0d,Johnson-Graham,968618f5-a07,be2a4373,Medicare
+64824be2,5af5e318,Berry PLC,4f964234-8b7,cd58bea1,PPO
+64b43861,631a86bb,Berry PLC,f0d4ef00-780,81b8fcdc,PPO
+65084187,b574d444,Martin-Morton,6adff776-72b,d4d1f302,HMO
+65384b86,8cc99440,Johnson-Graham,91411192-14e,7b507343,Medicare
+658345a3,af4ddd2a,Foster-Castillo,5d2b48ea-219,70a5b241,PPO
+6613dc9b,ca94bfbb,Berry PLC,8e3ba1eb-2ec,33ef8678,HMO
+661805dd,b5cfef2a,Martin-Morton,bb1bf20a-0e3,0c3534e3,Medicaid
+664d695f,899339dc,Johnson-Graham,8af2baa4-285,093de564,PPO
+66c11490,5db792fd,Martin-Morton,b1d7f4c2-ebd,2de251f0,Medicaid
+66d6ffde,24e3174a,Johnson-Graham,4571492d-ce1,1b8443ee,PPO
+6719bace,20421fc9,Berry PLC,6877ba1e-a04,b37ab12d,Medicaid
+6737d110,ed4766a8,Berry PLC,5c13805c-450,c4f56063,Medicare
+68feb7c9,b5bc46c1,Johnson-Graham,6bcb9000-be0,ccecc8e0,HMO
+69da5866,00d01c88,Berry PLC,bd8da8c7-7ed,c2104a6f,Medicaid
+6c0f871e,51dc5d0b,Torres Group,8bc4fe8c-aee,167bf709,PPO
+6c350e98,993058e0,Berry PLC,ba41eab9-8fe,0de84167,Medicaid
+6c4d634d,cc128f5c,Johnson-Graham,308e3299-cd8,8fd572a4,Medicare
+6c8f80a5,1d5b5695,Berry PLC,012538cc-535,90d761bc,Medicare
+6d27bb39,8dbde7cd,Foster-Castillo,69a1fc9a-d13,5f1653e1,PPO
+6d69704a,9e970546,Berry PLC,3df677e5-e06,adc34444,HMO
+6d94340a,468bf9fa,Berry PLC,ce3b0cf9-1f5,61056a89,Medicare
+6df7c536,e0b3c07b,Torres Group,97512faf-635,965fe755,PPO
+6e8f594a,e6f4d535,Berry PLC,dd13722f-b69,958c5be0,Medicaid
+6e92892e,3beddaed,Berry PLC,cc288292-cab,b1ad2aff,Medicare
+6ea16065,d7ad87e3,Berry PLC,2fe369b1-116,848e276c,Medicare
+6f1f135a,d006f06e,Torres Group,9683bb4d-81a,aa523819,PPO
+6f5bc0c1,3ab42829,Torres Group,8ded6744-d86,8e4ef763,HMO
+6fc77137,2dd2b86b,Berry PLC,3e95693b-b7f,72d25e38,Medicaid
+706fa1b5,83a6c40c,Johnson-Graham,575a3f5f-6b1,1ac08e29,PPO
+711f6009,3f8de5bd,Martin-Morton,c8510b27-785,f581f031,Medicare
+726267fe,8a4f8a0f,Torres Group,1a785341-8ed,100a3b61,Medicare
+731a90b0,558002e3,Johnson-Graham,844adc1b-6a4,b118d877,PPO
+73964738,d46b8536,Foster-Castillo,e6d374d3-67e,361824f9,Medicare
+73d8c854,510995fb,Torres Group,851ad7ec-2b5,010e63ee,Medicaid
+73ee865f,e2e63235,Berry PLC,44855180-cc0,b0102446,PPO
+740cd18a,886a14ad,Torres Group,ddbd9a12-609,8d5727b4,HMO
+74682d85,8eaca092,Foster-Castillo,28d9b2ea-4ad,b38728fc,Medicare
+763b53cb,8be9747e,Foster-Castillo,00d645a8-f53,9117bebe,PPO
+77e7a2fa,1b0e9a5f,Berry PLC,47ad1fb8-2ee,e2889248,Medicaid
+7881e746,0b9764d6,Martin-Morton,3dbe92d5-3f6,56072e34,Medicaid
+79827b7a,d7e11b1b,Johnson-Graham,256a28b4-ec5,4abfadfd,HMO
+79929818,43cb78f1,Berry PLC,aea127fe-2ca,764cc66b,HMO
+7ab173a2,53cec041,Martin-Morton,e7837232-9a5,3e3f1de2,Medicare
+7ac50620,a50eb77a,Johnson-Graham,9e4c3363-975,6768689a,Medicare
+7b360c5c,d28dfbfa,Foster-Castillo,8c30f720-fce,92dd9cb9,HMO
+7b9f6202,4a86195c,Torres Group,94b52ee4-de1,8a11852f,Medicare
+7ba1e43f,0d1ea1e8,Johnson-Graham,5c62487f-cbe,48fecb8d,HMO
+7ba96f0f,125bb3d8,Torres Group,ed606ecc-a9f,bfd61a96,Medicaid
+7c57a244,e67d5cb8,Foster-Castillo,a6ed68a6-db6,da252f93,PPO
+7c68b14d,30c23ce8,Martin-Morton,f22cb0c9-e67,c375b405,PPO
+7cb14d70,3eae34a8,Foster-Castillo,7c93283a-754,8631f450,Medicaid
+7cd65e50,11862a57,Berry PLC,f83a440b-b53,f0460298,HMO
+7cd86375,c75a8a21,Foster-Castillo,d79c87ab-fcb,c5bec232,Medicaid
+7d1ed780,399b00a4,Johnson-Graham,be134a40-289,727cd13c,Medicare
+7d352d52,aa480667,Torres Group,067111db-ccb,24cb9be4,Medicaid
+7deade60,4b222164,Johnson-Graham,1b99a72c-1dd,4d4de341,Medicaid
+7e282d74,65245dd6,Torres Group,51761633-23f,3c6fdc07,HMO
+8003533f,6ee176cb,Martin-Morton,79ebf141-6dd,cb2a6222,PPO
+813dfa00,11c4cce4,Torres Group,73d5a43d-e50,2c18827d,PPO
+81578d1b,52376b63,Torres Group,05ebe0ce-440,6844ddee,PPO
+81b6a722,987ef0f4,Berry PLC,d7465a96-0b4,dcc5c150,Medicaid
+81d382dc,3c5ebfcb,Martin-Morton,d6ee6617-9cb,0890e8cd,Medicaid
+81f82137,25c87a88,Berry PLC,13b5cc16-586,90a9089f,HMO
+8200f19b,549a1721,Johnson-Graham,29a35779-5be,ed21a325,PPO
+8251ef8a,0e692077,Martin-Morton,45273170-52c,9c4cfe49,HMO
+828f4a0b,18917516,Johnson-Graham,0864efb6-10e,cd3a3e1f,Medicare
+8300cf61,61af7823,Foster-Castillo,16cddb81-2d0,397fbbce,HMO
+8374f650,8c869da3,Torres Group,2cc1e04e-b79,ed54ef68,PPO
+843ff30e,2e84bd5c,Martin-Morton,2a5b7f44-c9b,b8b8328b,PPO
+851ced61,f3d541ed,Johnson-Graham,b9b2530e-5ec,17e66ce7,Medicaid
+858f6ac0,ba168d52,Martin-Morton,664705ea-c17,e00a5955,Medicaid
+85ab90b0,4c62aabe,Torres Group,b27f6c8c-6e9,f269bc9d,PPO
+85af74c3,be7f944a,Martin-Morton,90c0c385-83c,606a8715,Medicaid
+85cb9997,81a679cf,Martin-Morton,af860d5a-619,3c71948e,Medicaid
+8604b25e,8989a094,Johnson-Graham,672cecd6-6f8,8f32f139,Medicare
+86209bae,edb2b176,Berry PLC,74e321e6-926,d34f8d34,Medicaid
+866b317e,cc25332c,Berry PLC,6cbca483-157,b3b94f9f,Medicare
+870fb79f,5563bf09,Foster-Castillo,12974f91-c03,e4aa2ab2,HMO
+87fa91c3,4ad3dcfd,Johnson-Graham,cef7b9d6-387,3d5da47d,Medicaid
+88d28e6d,389482fa,Berry PLC,95ba38ff-498,d2137ee1,Medicare
+89efdda8,6d50dd1a,Foster-Castillo,b3e8f9c0-b45,e90b5820,Medicare
+8a9a5813,8a60806e,Martin-Morton,bac70b7c-af7,6137af61,HMO
+8aa2433d,49aec3e4,Johnson-Graham,c4fc30c1-ac7,722c11c3,Medicaid
+8ab7330d,0e89f2b7,Martin-Morton,811ca234-0c8,cc217965,HMO
+8ae66d11,333d22eb,Berry PLC,74d7e998-ff1,0dfb2805,PPO
+8c1f9321,8d8298cf,Martin-Morton,e7fd85ee-d4f,b5e36122,PPO
+8d04cd61,73b12f0d,Foster-Castillo,f39d00f2-9fd,6a01e6f0,Medicare
+8db16b37,7106e0fe,Johnson-Graham,045d2d24-a4a,45b5954d,HMO
+8e0ccb32,a1426966,Martin-Morton,c8a20065-d91,65b8afae,HMO
+8e7c8dd8,27aca752,Foster-Castillo,31cc0d36-8c3,12087d87,HMO
+8f385f25,b1c44b76,Torres Group,de4b3801-9cf,3d92794e,Medicare
+8fc19df1,5088ad53,Berry PLC,3d190fd4-6a8,1e7c19e8,HMO
+8fd3f7df,e93e49bc,Torres Group,deea830c-dab,7d67fe68,PPO
+9068a980,c4917332,Berry PLC,a5319040-7f1,cc219e57,PPO
+90c09a0e,cdf1c445,Martin-Morton,ae50f847-372,a044e347,Medicaid
+90df4fb7,b4b4960b,Foster-Castillo,d6c01eb0-901,2d699f6a,PPO
+91039f1e,1d1a813b,Foster-Castillo,f9f890c0-3f2,90d2b24e,HMO
+9167ac0c,e9a075de,Berry PLC,62d2b39e-82f,0bd67caf,HMO
+929015f5,f3e8289e,Johnson-Graham,5dc2459a-1a5,68edf31d,Medicare
+94297126,fcb10691,Berry PLC,39ce0d6d-e80,7b287c7f,HMO
+94433a68,6da75324,Torres Group,95743b60-d91,cd736cb7,PPO
+944c675e,4278ae88,Torres Group,7adbf178-bf5,0702ff17,HMO
+94cb5610,23ccad37,Foster-Castillo,e462d492-ba2,95d1c05e,Medicaid
+94cde033,85e9b8e9,Foster-Castillo,f987e8d4-b8c,094cb58a,HMO
+94e967e6,1b47bff4,Berry PLC,df1f72ab-eba,f5fa849b,PPO
+951b40be,0e4daaa3,Berry PLC,6f1d5ac9-eb6,dd301f43,Medicare
+953b3293,7ad1bdaf,Foster-Castillo,be10d085-62c,42cbd6ca,Medicaid
+955819a9,04d8b001,Berry PLC,79cdaa96-72a,77891e31,Medicaid
+964c126d,17770879,Johnson-Graham,dff5fc1c-f28,d88bca34,Medicare
+966d1809,b7668662,Foster-Castillo,8af20b63-02b,1a552d66,Medicaid
+9688eb0e,d00dd064,Martin-Morton,ac630ce6-2c6,08568a9a,Medicaid
+96f492aa,dbcce635,Torres Group,a8fa83a1-47c,e0ab411a,PPO
+974b0d13,e9f0dd6d,Foster-Castillo,58cedc74-a26,28d6417a,Medicare
+97614f41,9f84483e,Foster-Castillo,a4157d86-07a,57cd3594,Medicare
+98c6f63c,a4f0a261,Foster-Castillo,c93eb9e0-0e8,21e33278,HMO
+98fa7c5e,1258244b,Johnson-Graham,a40d300e-00e,f179552e,PPO
+9957ca4f,fb23998b,Martin-Morton,f9f16e67-d8d,1e9a8ee4,PPO
+9a11638e,c2cb0647,Torres Group,bc3f431c-def,f75dbbb4,Medicare
+9a22e407,388e310d,Martin-Morton,978c248e-194,fc61d077,PPO
+9a303d9b,97385885,Johnson-Graham,e537ca60-9b5,7436d6f7,PPO
+9a4de157,a07c9589,Foster-Castillo,4cddadab-6bd,5b54416c,HMO
+9ac3ccca,961f7c4f,Torres Group,13806f1d-2fc,30dc4b88,HMO
+9ad9754b,7c1dc65d,Martin-Morton,c14e22e2-0ec,4769af00,Medicare
+9b6081f4,2bd09810,Martin-Morton,a3182f81-08a,c0acff2a,PPO
+9b9cd8b4,804ec6d3,Martin-Morton,2749e1d6-450,a3d53cb9,Medicaid
+9bc8a008,12e9d44d,Martin-Morton,f5bb8429-008,a11cad64,Medicare
+9c53b170,e0b38882,Johnson-Graham,9ab5add6-4b3,90f0859f,HMO
+9cbdc462,2082544c,Foster-Castillo,799144fa-6cf,7f9e7969,HMO
+9cc1d8dd,89dc8a4a,Johnson-Graham,0eadf3c9-6f2,a360c25f,Medicaid
+9cebdd6f,38f607e7,Berry PLC,9003ce66-21d,22a368c7,HMO
+9dc39d6f,733faabf,Torres Group,2e4e78b9-a10,5daea6c3,Medicaid
+9e2de619,d59d05dc,Berry PLC,32b5946b-309,990501b2,Medicare
+9e4b171e,6b7edb17,Berry PLC,e9133e55-594,a358828d,Medicaid
+9ec228c0,81a22411,Torres Group,39499c69-6b7,587fd534,Medicaid
+9edacdfd,e6dc6187,Foster-Castillo,9b32662e-fa5,7d743601,HMO
+9ee34d48,5e3b962f,Foster-Castillo,1d2d8de3-1ef,fdff6b8c,PPO
+9f3f8091,edd8ea80,Johnson-Graham,4c7bc333-fd2,565d518f,PPO
+9ff98660,e27a217c,Torres Group,f15bc05a-734,b9a37c81,Medicare
+a0208da6,a162d3d6,Torres Group,4b3985ae-bfe,a96dc40c,Medicare
+a05f4d1f,3b472b9f,Foster-Castillo,e4c91c56-2f0,2922790b,HMO
+a0c2915b,2d0e553b,Torres Group,8b6e180b-f4a,75a34205,Medicare
+a1123ed7,0668ab1e,Foster-Castillo,03d063de-9c0,2d644845,PPO
+a13ced70,e266e30a,Foster-Castillo,8ff75c13-ec7,3196be59,Medicare
+a22811e2,1872e075,Johnson-Graham,362d4d02-2db,aa7208c5,PPO
+a29daa85,a4ed0149,Berry PLC,511cc59d-50a,31f0e243,Medicare
+a307ce30,493bdceb,Johnson-Graham,648fea81-49c,0f897ee5,HMO
+a31a27d7,1dd103f4,Berry PLC,b2ab153d-39d,d798d41f,Medicare
+a32e8e20,d75619f9,Foster-Castillo,f66a46ad-e18,540e65cd,Medicaid
+a33f7749,b7c85f73,Martin-Morton,83a324c7-53c,c4549d57,HMO
+a3b7b780,dcb63f2e,Foster-Castillo,442591da-c3d,c2a0f16f,HMO
+a45d063f,f5addbe6,Foster-Castillo,33673718-81a,f7c38630,HMO
+a4c4943f,7f93bf42,Foster-Castillo,8b1d96ba-292,5af4c3be,HMO
+a5b9bae4,2770cc6c,Johnson-Graham,7e33bcda-ddb,ae12752d,PPO
+a61f97fe,78e11ef3,Berry PLC,b97e5ea7-686,2fe16636,Medicare
+a635f843,afb86ed9,Berry PLC,372408a2-4c9,2fc968cf,Medicaid
+a672f156,4dd5b65f,Torres Group,703a8b54-b4a,cc9dd0c7,Medicaid
+a67f8251,74f2873c,Foster-Castillo,79e592a7-350,da86968f,Medicaid
+a6c4de3c,8e28c69b,Foster-Castillo,f9149143-efa,71d2c95d,HMO
+a74fb77a,cd7eead5,Berry PLC,44eff170-901,1ec39644,Medicare
+a7d0b998,948f236f,Berry PLC,6da9cfc1-a70,c7419687,Medicaid
+a7dda69e,e428a242,Martin-Morton,7ae802b6-90c,7c463f54,Medicare
+a8057fd3,101e4e0c,Foster-Castillo,1c9c9c82-a9b,e30d6d65,Medicaid
+a81041af,4c55026a,Foster-Castillo,c39c458d-7f2,310fbf67,PPO
+a91aabd6,f06280a4,Foster-Castillo,1c93bf89-ab5,7bafa607,HMO
+aa3cc201,8a3d604b,Martin-Morton,86bd6fd0-70c,5ec8c85d,HMO
+ac776488,8905303f,Berry PLC,e4d4ef08-b34,dbe4a054,HMO
+aceb4858,878fb706,Torres Group,3fd23265-55c,5b7efa6e,Medicare
+ad0e78e6,70868f44,Berry PLC,d72cb615-8c7,719121db,Medicaid
+ad5bea1d,63f5ba2d,Martin-Morton,141b70ee-f6d,b813fbbc,HMO
+ad8c26c5,a785096d,Martin-Morton,3616111d-1f9,0308f8ee,Medicaid
+add747d3,72756ab3,Johnson-Graham,0d771022-012,ea87751d,Medicare
+afd27a7a,d2d5a9b1,Berry PLC,0d76920a-947,21160d94,Medicaid
+aff5c8e7,3fabd646,Martin-Morton,aa274a83-7e3,58df0096,Medicare
+b1d7007a,ea904ceb,Johnson-Graham,a12bbc62-d04,88827e03,Medicare
+b21ab2c0,c5e93cb6,Foster-Castillo,10ff3632-719,320b9046,PPO
+b2931ed9,d86f5671,Foster-Castillo,395d2022-2b5,d0ee3eaf,PPO
+b31559d4,2aa3c366,Johnson-Graham,dabc405f-1ef,01b7ae8b,Medicaid
+b318c30a,b6ee0b84,Martin-Morton,b5e5de51-d56,5366e7f9,HMO
+b34c6026,b8603d35,Berry PLC,5de5816a-7bb,210d8b0b,Medicaid
+b35d7593,13016643,Berry PLC,d40f8eec-4a3,9e40b9e2,HMO
+b3abbba8,a00d0723,Torres Group,dfddcdcb-c51,1570f9a9,PPO
+b4172cbf,0762c86e,Torres Group,a1afcf43-d27,303f1596,Medicaid
+b4364a8b,dcefd42e,Martin-Morton,7e714829-a27,85d51366,PPO
+b4a2b7df,ca054740,Berry PLC,b81bd1e2-476,87227df9,Medicare
+b4aba019,63da2614,Torres Group,862c52e3-8c7,2c892124,Medicaid
+b4f7476d,4e5d56bf,Martin-Morton,8e92099e-4bd,bcda33c2,HMO
+b503f853,0e89541c,Berry PLC,97a078ab-ea4,e542f347,Medicaid
+b5f8b00c,39771281,Martin-Morton,efb1a3da-56e,1abf504b,PPO
+b61ce648,61c0e342,Johnson-Graham,f5f61ba0-f9a,cf788c2c,Medicaid
+b7447ec6,e4042c88,Torres Group,b5693be4-a70,01b2ced0,PPO
+b755bab4,e75afda2,Foster-Castillo,c5e6a6dc-4e7,c4f7f4d9,Medicare
+b784c114,ee871624,Berry PLC,e2c3bf4f-e2f,e6fba1ee,PPO
+b7c7a3a8,eef0938f,Foster-Castillo,8ee8d45a-496,a3fb08be,Medicaid
+b820832f,eb6d652e,Johnson-Graham,7835d956-0e8,364600b6,HMO
+b8965577,a828fd5d,Foster-Castillo,675c2986-2a0,57c69eab,HMO
+b89fdb6a,f224b138,Foster-Castillo,a0ce8ac9-8c7,93370088,HMO
+b9e0d67c,aca802c2,Torres Group,2f2c10e4-733,0b759a5b,HMO
+ba83fe83,f7d16812,Torres Group,2a47b9dd-4b0,357997f8,Medicaid
+ba92be10,31695172,Foster-Castillo,f4606ecd-dbb,c0252142,Medicare
+bb59edcb,36217417,Martin-Morton,9dc43acd-643,10e92610,Medicaid
+bb7b7732,6fc7fca4,Foster-Castillo,f6176fa6-7b5,16728af5,PPO
+bb819bad,ea343264,Foster-Castillo,d53baab6-918,7d3ad871,HMO
+bbd90337,9b27efbd,Torres Group,1219dadc-fa3,d64756cc,PPO
+bbf18ed3,05d546c0,Berry PLC,c8c02098-a53,3f3ce557,Medicare
+bbff5c9c,6f1dd87d,Johnson-Graham,e09eb907-c7b,e7ec9d43,PPO
+bbff6b9a,98fb7649,Johnson-Graham,9cbb052c-666,a50623a5,Medicare
+bc4d1e35,9e84bf09,Johnson-Graham,022d1331-d27,d8548be9,Medicaid
+bcda0710,9e642f1b,Berry PLC,963d196a-366,5d30c22e,PPO
+bcf2389d,2032e852,Torres Group,1ac778b8-772,96200f5d,PPO
+bd4ba43c,d3ad2255,Berry PLC,023c1b79-cce,e16dc606,Medicare
+bd5dd95f,5b4d7f1e,Johnson-Graham,6dbff873-3fe,86360ffc,Medicare
+bd6c80fc,a762abd2,Johnson-Graham,07d0095f-c08,c6744bf0,HMO
+be90486b,9bf5b6e5,Berry PLC,1b52aaf8-424,6f0d3de5,HMO
+bf82e6a0,7d3d63b1,Foster-Castillo,70396897-461,70a5c3f6,HMO
+bfffc06b,4a1aeaa8,Foster-Castillo,b22f01b5-f9a,1757a252,HMO
+c05dae3c,d1e694c4,Berry PLC,41484bfa-82f,e5112a67,PPO
+c122c4e7,9f0787a1,Martin-Morton,f59125fa-20c,9ea05bb6,Medicare
+c176ef00,a72cfd78,Torres Group,a23ec5aa-3a5,0ef2072d,Medicare
+c192d901,ddf8b6a7,Torres Group,ed8a8812-d0c,dd7be334,HMO
+c2059938,3d5cd21b,Martin-Morton,10db43d7-b97,140bbde8,HMO
+c21a7c6c,b4b69fd1,Berry PLC,add10128-d8d,cffe510b,HMO
+c21f7d39,f9c55333,Torres Group,f7d53020-d3c,5e58c321,HMO
+c2ed0ba0,edef3138,Foster-Castillo,ca1837a5-275,9f5f9388,PPO
+c2f8fdf5,3edd04b7,Torres Group,16b58bdc-d3c,facba8e1,HMO
+c3abbc93,e5eeaaf1,Johnson-Graham,2e535c19-33c,84e767a6,HMO
+c3ea22a2,ad60ee81,Berry PLC,c3dc3a76-4d2,0e07defa,Medicaid
+c499009e,562c1cc6,Martin-Morton,6d147971-eb8,4d8339fb,Medicare
+c4a0600c,39218702,Torres Group,8b307638-615,c419b610,Medicaid
+c5648d5e,c746f56c,Martin-Morton,d23274f7-a56,a52b089d,PPO
+c575bb1a,2410a583,Foster-Castillo,88a35b28-f3b,9eabe418,HMO
+c5762adf,39b20622,Johnson-Graham,ec7fd6d6-0a2,1e94950b,HMO
+c66d6158,e45666c1,Berry PLC,472b9956-e73,4f3e45da,HMO
+c6d87dfe,1744f2b9,Berry PLC,fe708afc-5de,c4abd38e,HMO
+c7283abb,cc3b83df,Johnson-Graham,4b9dd14b-b95,6e427f27,Medicare
+c7960f16,a84516a5,Berry PLC,03006593-517,789841c3,Medicare
+c7a772c1,34def8f5,Berry PLC,1fa779b6-83e,f64b93fc,PPO
+c7fcdf6d,fb5083b1,Martin-Morton,5ee039c8-8fb,e32291dc,Medicare
+c8208207,63bffcdc,Berry PLC,5d7fb421-2cb,4156b109,Medicare
+c84f87b0,23b2d888,Torres Group,2503f822-1bd,82d04968,HMO
+c87c1a46,eb807903,Torres Group,4ea9f0ae-6c2,f2e3d170,HMO
+c8aa015c,15c086ac,Foster-Castillo,5e9a5d76-62c,d57124df,PPO
+c97ba93f,a4e06ab7,Martin-Morton,c9837b03-68b,d4565fcc,PPO
+ca65b18b,aeaf2e32,Martin-Morton,9489ec2b-f99,65f12126,PPO
+ca821bc5,0514229e,Berry PLC,d081a571-699,e7b45976,Medicaid
+caf6b018,f72db347,Torres Group,dd9d5292-88e,87f9c4c8,Medicare
+cb3601da,7456b9b5,Torres Group,23d7c061-97c,b0e553d7,PPO
+cbbb4d8b,89f74a4d,Martin-Morton,824cc2e9-903,3795e392,Medicaid
+cc98c330,8fa9943f,Foster-Castillo,562927f0-6b0,84d41971,Medicare
+cd041ec4,d064e129,Martin-Morton,0150d160-35e,5b4861a4,Medicaid
+cd9f074f,e42ae3b2,Johnson-Graham,800a7048-0e3,eb46d0bd,Medicare
+ce411683,8d85e117,Berry PLC,d0efdb3e-9a8,14c7e1e1,Medicare
+ce4e5928,bde92e1b,Torres Group,6fef8be3-44f,3eb11160,HMO
+ce815a38,37011e0b,Martin-Morton,52d7862f-6d4,29f592da,HMO
+cea870d0,b8216830,Johnson-Graham,0a315574-3f1,d75884a5,Medicaid
+d0cea417,f4a92e9a,Foster-Castillo,e011f361-2c6,559c3282,HMO
+d20bac10,746bf234,Torres Group,e90c95bd-2b3,a68afd7c,Medicare
+d26851b5,6cd2a236,Berry PLC,a00e5f20-854,a67eaff6,PPO
+d2da2f55,dbd5b1ac,Berry PLC,ef4ef561-68a,72a807ce,HMO
+d304f463,ed279727,Berry PLC,5e47020b-816,9f8eeb2c,PPO
+d40c299f,2fb47560,Berry PLC,e71b4544-a5d,e8919d1e,HMO
+d412807e,d2de421b,Torres Group,c7ffd559-c83,183cc8e5,PPO
+d441130f,4e6cfbc9,Foster-Castillo,ef6a4efb-b08,09230885,HMO
+d497196b,1460cdb5,Torres Group,57fd3dce-fdf,804f8585,PPO
+d4ce8760,00d8cb91,Torres Group,649d54d4-580,a6d0dea0,Medicaid
+d588ee38,7c0513a4,Torres Group,49b91be1-d64,a88e9f61,Medicaid
+d61e5a5e,e75ecb14,Johnson-Graham,f9801ab7-f93,08b81365,Medicare
+d657c839,6587e965,Foster-Castillo,20350271-da2,b61a07d8,Medicaid
+d69b280a,f8614b25,Berry PLC,8d0d8408-652,242a51c9,Medicare
+d85dde3b,0cbf520c,Foster-Castillo,6db9b3a1-816,958e79b3,Medicare
+d8835070,08fb82cd,Foster-Castillo,c780e431-a09,dfaaacf8,Medicare
+d8a97d91,6d054081,Torres Group,ad2a74ad-621,e7d6e777,HMO
+d9027e86,1a6d8c2a,Johnson-Graham,d48b0b4a-813,c3765d23,HMO
+da286666,4f964b0c,Berry PLC,1740fb97-a53,93ef519f,PPO
+db23fa7b,a6ce9b2d,Berry PLC,20f8b23b-20d,476c1770,Medicaid
+dbd6a503,7a29d285,Torres Group,4bb9dd4b-9df,34fb88e2,Medicare
+dc427e60,3fdea1f2,Foster-Castillo,35e14a38-fbb,35bfe83c,Medicare
+dc94bf04,652fba8e,Martin-Morton,bf2ac42d-ea2,e5d9b8ad,Medicare
+dcf0020e,808cc3c6,Martin-Morton,83d1ff4b-973,c5902f43,Medicaid
+ddd71005,074be825,Johnson-Graham,c8427ac8-813,312d0567,PPO
+deb53949,d8636615,Johnson-Graham,7b52b841-66e,651546c5,Medicaid
+df0db137,051c7f78,Foster-Castillo,305e1ab7-c00,4fa0c5d7,Medicare
+df368b52,5e0d4c51,Torres Group,50a022cc-977,f99ef5f8,Medicare
+df6e92bf,f66db3fa,Torres Group,6dc5b590-984,ee2aff8b,Medicare
+e0d12214,9658502a,Foster-Castillo,4d90263c-961,4653e5ca,Medicaid
+e0e27366,b50c8ce7,Berry PLC,ea68aff9-f1d,4e927263,HMO
+e21d5e62,5c72794d,Torres Group,f809a083-94c,b5ee89a9,HMO
+e22103ad,7105bbe2,Berry PLC,3a39e6d4-076,b78a32c6,Medicare
+e29718e6,54953b07,Torres Group,61b205aa-dc3,ddc508ed,HMO
+e3495928,7251ccd2,Johnson-Graham,22aea590-74b,979c2ab2,Medicaid
+e3997a84,2441e3a3,Foster-Castillo,16fd8700-6f2,2364f219,PPO
+e41e87d7,f4dae989,Martin-Morton,d94570e5-ed4,8e630de1,HMO
+e598139e,51d31a83,Torres Group,51472a59-4b4,69ae5249,HMO
+e6a56937,e9dcce81,Johnson-Graham,5cc25f70-0d5,0cb5d14f,PPO
+e6bbea79,5625e3b0,Berry PLC,945fe10e-e1b,ade01d53,PPO
+e6c82e31,9fc04943,Foster-Castillo,18351630-640,dbb028ed,Medicare
+e787226f,0a94276e,Torres Group,2cfc9139-b2b,db2e1bc8,Medicaid
+e7d8367f,72697093,Foster-Castillo,ed48d258-f93,68ff7873,Medicaid
+e8505d2c,4629255a,Torres Group,fcf544ba-e09,b005af7c,Medicaid
+e8e5cb9b,bddf680a,Berry PLC,baf0c126-415,425e2bf7,PPO
+e993e82d,87cb4081,Martin-Morton,cd0e96e1-343,8ded47ee,Medicaid
+e999ca58,9f624906,Johnson-Graham,82e55864-49b,dfcec4d9,Medicare
+ea0f243e,0e46e694,Torres Group,656bdba4-019,a599ca26,HMO
+ea18e52c,b771a709,Martin-Morton,01c0ea8a-015,2ce6fa22,PPO
+ea49df49,b50aa871,Foster-Castillo,25afcdf8-60e,df4ab2e3,Medicaid
+eb058b23,dbda9276,Martin-Morton,2f8143fd-3d1,5c5b2e52,Medicare
+eb8a7a08,a051a6db,Johnson-Graham,2d3df53b-aa7,7ddf69cb,Medicaid
+ed9ef81d,e60d38e7,Johnson-Graham,ccb7cdd5-4cd,cc81a0b2,Medicare
+ede1c919,f00b0c39,Torres Group,8f9a252b-afb,8e3af21c,Medicaid
+eded53e2,a8016c95,Berry PLC,bb43e4be-518,8c99433b,PPO
+ee5a737e,b228e63b,Martin-Morton,2da07f4f-1cd,7c8757c5,HMO
+ef3f98a4,40e0c81d,Berry PLC,41a4b7e9-6bc,ca1c575c,HMO
+f061b690,0ca30877,Johnson-Graham,96ca9370-0ab,f58ffc33,HMO
+f07b0572,c28dd02d,Torres Group,50e925ca-0e5,728ade64,Medicaid
+f0c9f691,62bf874a,Berry PLC,0f956d9e-9d1,7ce256b8,PPO
+f12cd90e,4805e322,Torres Group,84503379-f79,9fee18d4,Medicaid
+f1fbe6d9,a529b6b6,Torres Group,f0e4e604-55d,46376dcd,PPO
+f2509727,47750604,Johnson-Graham,66d85539-233,44ce2710,HMO
+f281a620,55eb04a0,Foster-Castillo,e5968f91-8da,a2a1a900,Medicare
+f30a3428,eea27e99,Johnson-Graham,d03b8905-775,4fc5f886,HMO
+f31b472f,1d43557e,Foster-Castillo,c8a29ead-d44,dd3f2ee2,Medicare
+f3ba4911,6e61c10a,Johnson-Graham,7e3cde37-743,91f82c5b,HMO
+f45dc9cb,9cec93ab,Johnson-Graham,bd3a9cee-4d5,30f95362,HMO
+f495d016,3989ece4,Foster-Castillo,d169b734-114,882193b3,HMO
+f52925bd,49e83db0,Torres Group,3ea31b89-883,ebd18a4c,Medicaid
+f54c92a4,51073d54,Torres Group,fb80eddd-083,900e4411,Medicaid
+f685b928,14c0209c,Martin-Morton,8f341f55-eaf,e468b98b,HMO
+f6a4cfaf,44108614,Foster-Castillo,666f3a72-c66,0cb7ce99,HMO
+f71883d7,405d5b40,Martin-Morton,b30f6481-d0e,0cf35628,HMO
+f75fb4b7,5e7f29b7,Torres Group,8b324479-6d3,fca26985,Medicaid
+f77e0b69,814db6fd,Berry PLC,8c9619fe-3f0,80861e6b,HMO
+f7b8e16d,ee787717,Foster-Castillo,e8d068a7-1c4,f54ef22e,PPO
+f7c43b5e,92701500,Berry PLC,466f199c-ef3,452c6f89,PPO
+f81c5cb0,6d530cad,Berry PLC,ff252c61-210,9d8a54b9,HMO
+f9797558,f05eab8f,Martin-Morton,e89abc19-06b,16b90670,PPO
+f9c2ecb4,fe9c6f93,Johnson-Graham,5e203873-f68,c40531a0,Medicaid
+fac0b038,abc33a09,Torres Group,d28e8912-df7,b6048dc0,Medicaid
+fb50af58,7c82a121,Berry PLC,730f6a91-03e,fa662038,HMO
+fcde1aea,12a49b66,Berry PLC,67d61b52-3ec,f856913b,PPO
+fdd0e2ab,dda79924,Torres Group,bb3387a1-000,fdd5a5a5,Medicare
+ff0b5097,5ebed4f9,Johnson-Graham,42c18e79-cdf,412b0643,PPO
+ff127b1b,35b5e08d,Martin-Morton,c517cf31-147,237bea38,Medicare

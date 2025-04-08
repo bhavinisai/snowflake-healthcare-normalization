@@ -1,0 +1,184 @@
+provider_id,doctor_name,doctor_title,doctor_department
+1,Amber Salinas,DO,"Investment banker, operational"
+2,Amber Salinas,DO,"Pharmacist, community"
+3,Amber Salinas,MD,Geochemist
+4,Amber Salinas,PA,Psychotherapist
+5,Amber Salinas,NP,"Investment banker, operational"
+6,Amber Salinas,PA,Barrister
+7,Amber Salinas,MD,Insurance account manager
+8,Amber Salinas,PA,Insurance account manager
+9,Amber Salinas,MD,Psychotherapist
+10,Amber Salinas,PA,Geochemist
+11,Amber Salinas,NP,Geochemist
+12,Amber Salinas,NP,"Pharmacist, community"
+13,Amber Salinas,DO,Barrister
+14,Amber Salinas,DO,Insurance account manager
+15,Amber Salinas,PA,"Pharmacist, community"
+16,Amber Salinas,MD,"Investment banker, operational"
+17,Amber Salinas,DO,Psychotherapist
+18,Amber Salinas,DO,Geochemist
+19,Amber Salinas,MD,"Pharmacist, community"
+20,Amber Salinas,NP,Psychotherapist
+21,Amber Salinas,PA,"Investment banker, operational"
+22,Amber Salinas,MD,Barrister
+23,Amber Salinas,NP,Barrister
+24,Donald Duncan,NP,Geochemist
+25,Donald Duncan,NP,"Investment banker, operational"
+26,Donald Duncan,MD,Geochemist
+27,Donald Duncan,PA,"Pharmacist, community"
+28,Donald Duncan,MD,"Pharmacist, community"
+29,Donald Duncan,NP,"Pharmacist, community"
+30,Donald Duncan,NP,Insurance account manager
+31,Donald Duncan,NP,Psychotherapist
+32,Donald Duncan,PA,Psychotherapist
+33,Donald Duncan,DO,"Pharmacist, community"
+34,Donald Duncan,DO,Insurance account manager
+35,Donald Duncan,MD,Psychotherapist
+36,Donald Duncan,PA,Barrister
+37,Donald Duncan,MD,Barrister
+38,Donald Duncan,DO,Psychotherapist
+39,Donald Duncan,PA,Geochemist
+40,Donald Duncan,DO,Barrister
+41,Donald Duncan,DO,Geochemist
+42,Donald Duncan,NP,Barrister
+43,Donald Duncan,DO,"Investment banker, operational"
+44,Donald Duncan,MD,"Investment banker, operational"
+45,Donald Duncan,PA,"Investment banker, operational"
+46,Joann Adams,PA,Geochemist
+47,Joann Adams,MD,"Pharmacist, community"
+48,Joann Adams,MD,Barrister
+49,Joann Adams,MD,Psychotherapist
+50,Joann Adams,DO,Geochemist
+51,Joann Adams,MD,"Investment banker, operational"
+52,Joann Adams,NP,Barrister
+53,Joann Adams,DO,"Pharmacist, community"
+54,Joann Adams,PA,Insurance account manager
+55,Joann Adams,DO,Barrister
+56,Joann Adams,MD,Geochemist
+57,Joann Adams,NP,"Investment banker, operational"
+58,Joann Adams,NP,Psychotherapist
+59,Joann Adams,PA,Psychotherapist
+60,Joann Adams,PA,"Investment banker, operational"
+61,Joann Adams,PA,"Pharmacist, community"
+62,Joann Adams,NP,Geochemist
+63,Joann Adams,PA,Barrister
+64,Joann Adams,NP,"Pharmacist, community"
+65,Joann Adams,NP,Insurance account manager
+66,Joann Adams,DO,Psychotherapist
+67,Joann Adams,MD,Insurance account manager
+68,Joann Adams,DO,Insurance account manager
+69,Joshua Hart,NP,Barrister
+70,Joshua Hart,PA,Psychotherapist
+71,Joshua Hart,NP,Insurance account manager
+72,Joshua Hart,MD,Psychotherapist
+73,Joshua Hart,DO,Insurance account manager
+74,Joshua Hart,NP,Psychotherapist
+75,Joshua Hart,DO,"Pharmacist, community"
+76,Joshua Hart,NP,"Pharmacist, community"
+77,Joshua Hart,MD,"Investment banker, operational"
+78,Joshua Hart,PA,Geochemist
+79,Joshua Hart,PA,"Pharmacist, community"
+80,Joshua Hart,DO,"Investment banker, operational"
+81,Joshua Hart,MD,"Pharmacist, community"
+82,Joshua Hart,NP,"Investment banker, operational"
+83,Joshua Hart,NP,Geochemist
+84,Joshua Hart,PA,"Investment banker, operational"
+85,Joshua Hart,MD,Barrister
+86,Joshua Hart,PA,Insurance account manager
+87,Joshua Hart,MD,Geochemist
+88,Joshua Hart,DO,Geochemist
+89,Joshua Hart,PA,Barrister
+90,Joshua Hart,DO,Barrister
+91,Joshua Hart,MD,Insurance account manager
+92,Julie Calderon,MD,Geochemist
+93,Julie Calderon,NP,Insurance account manager
+94,Julie Calderon,PA,Insurance account manager
+95,Julie Calderon,MD,"Investment banker, operational"
+96,Julie Calderon,DO,Barrister
+97,Julie Calderon,NP,"Pharmacist, community"
+98,Julie Calderon,MD,"Pharmacist, community"
+99,Julie Calderon,MD,Psychotherapist
+100,Julie Calderon,DO,"Investment banker, operational"
+101,Julie Calderon,NP,Psychotherapist
+102,Julie Calderon,DO,Geochemist
+103,Julie Calderon,MD,Barrister
+104,Julie Calderon,NP,Geochemist
+105,Julie Calderon,PA,"Investment banker, operational"
+106,Julie Calderon,DO,Psychotherapist
+107,Julie Calderon,DO,Insurance account manager
+108,Julie Calderon,NP,"Investment banker, operational"
+109,Julie Calderon,PA,Psychotherapist
+110,Julie Calderon,NP,Barrister
+111,Julie Calderon,MD,Insurance account manager
+112,Julie Calderon,PA,"Pharmacist, community"
+113,Julie Calderon,DO,"Pharmacist, community"
+114,Julie Calderon,PA,Barrister
+115,Julie Calderon,PA,Geochemist
+116,Michael Burke,NP,Geochemist
+117,Michael Burke,DO,Barrister
+118,Michael Burke,PA,"Pharmacist, community"
+119,Michael Burke,DO,"Investment banker, operational"
+120,Michael Burke,PA,Insurance account manager
+121,Michael Burke,DO,Geochemist
+122,Michael Burke,NP,"Investment banker, operational"
+123,Michael Burke,NP,Barrister
+124,Michael Burke,DO,Insurance account manager
+125,Michael Burke,MD,Psychotherapist
+126,Michael Burke,NP,Psychotherapist
+127,Michael Burke,MD,Geochemist
+128,Michael Burke,DO,"Pharmacist, community"
+129,Michael Burke,PA,Barrister
+130,Michael Burke,MD,"Investment banker, operational"
+131,Michael Burke,NP,"Pharmacist, community"
+132,Michael Burke,PA,"Investment banker, operational"
+133,Michael Burke,MD,Insurance account manager
+134,Michael Burke,PA,Geochemist
+135,Michael Burke,DO,Psychotherapist
+136,Michael Burke,PA,Psychotherapist
+137,Michael Burke,NP,Insurance account manager
+138,Michael Burke,MD,"Pharmacist, community"
+139,Michael Burke,MD,Barrister
+140,Michael Williams,MD,Barrister
+141,Michael Williams,PA,"Pharmacist, community"
+142,Michael Williams,DO,"Pharmacist, community"
+143,Michael Williams,MD,Psychotherapist
+144,Michael Williams,NP,Psychotherapist
+145,Michael Williams,NP,"Investment banker, operational"
+146,Michael Williams,MD,"Investment banker, operational"
+147,Michael Williams,MD,Geochemist
+148,Michael Williams,NP,Geochemist
+149,Michael Williams,NP,"Pharmacist, community"
+150,Michael Williams,PA,Insurance account manager
+151,Michael Williams,DO,Psychotherapist
+152,Michael Williams,NP,Insurance account manager
+153,Michael Williams,PA,"Investment banker, operational"
+154,Michael Williams,MD,"Pharmacist, community"
+155,Michael Williams,DO,Insurance account manager
+156,Michael Williams,PA,Barrister
+157,Michael Williams,DO,"Investment banker, operational"
+158,Michael Williams,PA,Psychotherapist
+159,Michael Williams,MD,Insurance account manager
+160,Michael Williams,DO,Geochemist
+161,Sean Moyer,PA,Insurance account manager
+162,Sean Moyer,NP,Barrister
+163,Sean Moyer,DO,Psychotherapist
+164,Sean Moyer,NP,Insurance account manager
+165,Sean Moyer,PA,Psychotherapist
+166,Sean Moyer,MD,Insurance account manager
+167,Sean Moyer,MD,"Investment banker, operational"
+168,Sean Moyer,DO,Insurance account manager
+169,Sean Moyer,MD,"Pharmacist, community"
+170,Sean Moyer,MD,Psychotherapist
+171,Sean Moyer,DO,Geochemist
+172,Sean Moyer,NP,"Pharmacist, community"
+173,Sean Moyer,DO,"Investment banker, operational"
+174,Sean Moyer,PA,"Pharmacist, community"
+175,Sean Moyer,NP,Geochemist
+176,Sean Moyer,MD,Barrister
+177,Sean Moyer,DO,"Pharmacist, community"
+178,Sean Moyer,PA,Barrister
+179,Sean Moyer,PA,"Investment banker, operational"
+180,Sean Moyer,DO,Barrister
+181,Sean Moyer,NP,"Investment banker, operational"
+182,Sean Moyer,NP,Psychotherapist
+183,Sean Moyer,PA,Geochemist
