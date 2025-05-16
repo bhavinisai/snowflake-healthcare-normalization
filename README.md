@@ -166,9 +166,4 @@ The dashboard contains:
 
 **Bhavini Sai Mallu**  
 Graduate Student
-Rochester Institute of Technology  
-bm5726@rit.edu
-
-This project was completed as part of the DSCI-644 course: Software Engineering for Data Science at Rochester Institute of Technology, with a focus on healthcare data normalization and visualization using PySpark and Tableau.
-
 ---
