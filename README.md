@@ -53,7 +53,7 @@ The dataset may contain duplicate or null values, or inconsistencies and is pre-
 
 ---
 
-## Schema Used 
+## Schema 
 
 This project implements a **Snowflake Schema**, consisting of: 
 
@@ -64,13 +64,23 @@ This project implements a **Snowflake Schema**, consisting of:
 ### Fact Table: 
 - `FactVisit` — references all dimension tables via foreign keys
 
+The following diagram shows how the fact and dimension tables are related:
+
+![Snowflake Schema](images/healthcare_schema.webp)
+_E-R Diagram for the Snowflake Schema implemented in this project._
+
+
 ---
 
-## Required Packages
+## Environment and Packages
 
-- Python 3.x
-- PySpark  
-- Standard libraries: `os`, `glob`, `shutil`
+- OS: Linux (Ubuntu 22.04)
+- Language: Python 3.x
+- Framework: Apache PySpark
+- Tools: Command-line interface, Git
+- Libraries: `os`, `glob`, `shutil`
+
+> All scripts were written and tested in a **Linux environment**, and the commands use a Unix-style file system and terminal.
 
 Install PySpark:
 ```bash
@@ -80,12 +90,13 @@ pip install pyspark
 ---
 
 ## Execution
+The core transformation logic is handled by the `DataProcessor` class in `src/data_processor.py`.
 
 1. Place the raw CSV file (`legacy_healthcare_data.csv`) inside the project folder.
 
 2. Ensure that the script is located at `src/main.py`.
 
-3. Run the following command from the root directory of the project:
+3. Run the following command from the root directory:
 ```bash
 python3 src/main.py
 ```
@@ -118,11 +129,23 @@ The following files which have fully normalized tables will be generated after p
 
 ## Data Validation
 
-To ensure the correctness of the normalized data:
-- Verified that all primary keys in dimension tables are referenced as foreign keys in the FactVisit table.
-- Checked for duplicate and null values in critical columns before assigning surrogate keys.
-- Performed sample joins between fact and dimension tables using PySpark to confirm referential integrity.
-- Validated the final CSV outputs by loading them into Tableau for consistent aggregation and filtering.
+To ensure the correctness and integrity of the normalized data, a validation script is present in `validation/normalization_validation.py`. 
+This script performs the following checks:
+- Verifies that all primary keys in dimension tables are referenced as foreign keys in the `FactVisit` table
+- Checks for duplicate and null values in critical columns before assigning surrogate keys
+- Performs sample joins between fact and dimension tables using PySpark to confirm referential integrity
+- Validates the final CSV outputs by loading them into Tableau for consistent aggregation and filtering
+- Prints row counts for all tables to ensure data completeness
+
+To run the validation script:
+
+Make sure the normalized CSV files are already generated in the `output/` directory (by running the processor using `src/main.py` first).
+
+Then run:
+
+```bash
+python3 validation/normalization_validation.py
+```
 
 ---
 

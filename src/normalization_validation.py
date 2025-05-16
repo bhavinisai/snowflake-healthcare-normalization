@@ -119,4 +119,4 @@ for name, df in [
     print(f"{name}: {df.count()} rows")
 
 spark.stop()
-print("\nValidation completed.")
+print("\nThe validation is completed.")
