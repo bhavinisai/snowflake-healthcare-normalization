@@ -163,6 +163,6 @@ The dashboard contains:
 ---
 
 ## Author
-**Bhavini Sai Mallu**  
-bhavini23sai@gmail.com
+- Bhavini Sai Mallu
+- bhavini23sai@gmail.com
 ---
