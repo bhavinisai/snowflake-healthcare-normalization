@@ -1,4 +1,4 @@
-# Legacy Healthcare Data Normalization
+# Healthcare Data Modeling and Billing Analytics
 
 ## Project Overview
 
