@@ -139,13 +139,16 @@ The pipeline is deployed as a Databricks Job (`run_healthcare_pipeline`).
 
 One change was needed: Databricks enforces strict (ANSI) casting, so `prescription_duration_days` is cast to double before int.
 
-![Databricks Tables](images/databricks_tables.png)
+<img src="images/databricks_tables.png" alt="Databricks Tables" width="500">
+
 _The 11 Delta tables created in Unity Catalog under `workspace.healthcare`._
 
-![Databricks Integrity Check](images/databricks_integrity_check.png)
+<img src="images/databricks_integrity_check.png" alt="Databricks Integrity Check" width="500">
+
 _SQL integrity checks showing 0 orphan foreign keys across all fact-to-dimension relationships._
 
-![Databricks Job Run](images/databricks_job_run.png)
+<img src="images/databricks_job_run.png" alt="Databricks Job Run" width="500">
+
 _Successful run of the `run_healthcare_pipeline` Databricks Job._
 
 ---
