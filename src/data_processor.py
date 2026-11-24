@@ -1,5 +1,7 @@
 # importing necessary libraries and modules
 import os
+import glob
+import shutil
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import (
     col,
@@ -27,13 +29,22 @@ class DataProcessor:
             .option("delimiter", ",")
             .csv(input_file)
         )
+        self.output_folder = "output"  # output directory
+        if not os.path.exists(self.output_folder):
+            os.makedirs(self.output_folder)
 
-    # saving to Delta table function
+    # saving to CSV function
     def save_to_csv(self, df, output_filename):
-        table = output_filename.removesuffix(".csv")
-        df.write.format("delta").mode("overwrite").option(
-            "overwriteSchema", "true"
-        ).saveAsTable(f"workspace.healthcare.{table}")
+        output_path = os.path.join(self.output_folder, output_filename)
+        temp_dir = output_path + "_temp"  # temporary directory for saving CSV
+        df.coalesce(1).write.option("header", "true").mode("overwrite").csv(temp_dir)
+        csv_files = glob.glob(os.path.join(temp_dir, "part-*.csv"))
+        if not csv_files:
+            print("No CSV part file found in", temp_dir)
+            return
+        csv_file = csv_files[0]
+        shutil.move(csv_file, output_path)
+        shutil.rmtree(temp_dir)  # removing temporary directory
 
     # 1. DimPatient
     def dim_patient(self):
@@ -400,7 +411,7 @@ class DataProcessor:
         self.dim_prescription()
         self.dim_lab_order()
         self.fact_visit()
-        print("All the tables are processed and saved to Unity Catalog!")
+        print("All the tables are processed and saved to CSV files!")
 
     def close(self):
         self.spark.stop()
