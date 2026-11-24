@@ -229,6 +229,7 @@ class DataProcessor:
             "prescription_dosage",
             "prescription_frequency",
             col("prescription_duration_days")
+            .cast("double")
             .cast("int")
             .alias("prescription_duration_days"),
         ).filter(
