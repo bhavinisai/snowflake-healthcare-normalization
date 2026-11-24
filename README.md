@@ -137,7 +137,7 @@ The pipeline is deployed as a Databricks Job (`run_healthcare_pipeline`).
 
 **Results:** 11 tables created, 547 rows in `factvisit`, and 0 orphan foreign keys across all 10 fact-to-dimension relationships in the SQL integrity checks.
 
-Extending the integrity checks to all 10 foreign keys caught an off-by-one surrogate key bug in secondary diagnosis IDs. After the fix, all 167 visits with a secondary diagnosis match the raw source data.
+Validating every fact row against the raw source caught two surrogate key bugs: an off-by-one shift in secondary diagnosis IDs, and inconsistent provider and location IDs caused by ordering on non-unique columns. Both are fixed, and all 547 visits now map to the correct provider, location, diagnoses, and treatment.
 
 One change was needed: Databricks enforces strict (ANSI) casting, so `prescription_duration_days` is cast to double before int.
 
