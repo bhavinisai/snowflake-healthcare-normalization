@@ -127,6 +127,29 @@ The following files which have fully normalized tables will be generated after p
 
 ---
 
+## Running on Databricks
+
+The [`databricks` branch](https://github.com/bhavinisai/snowflake-healthcare-normalization/tree/databricks) runs the same PySpark pipeline on Databricks Free Edition. Instead of writing CSV files, it writes 11 Delta tables to Unity Catalog (`workspace.healthcare`).
+
+**Setup:** upload the raw CSV to the Unity Catalog volume `/Volumes/workspace/healthcare/raw/`, add the repo as a Databricks Git folder on the `databricks` branch, and run the `run_pipeline` notebook.
+
+The pipeline is deployed as a Databricks Job (`run_healthcare_pipeline`).
+
+**Results:** 11 tables created, 547 rows in `factvisit`, and 0 orphan foreign keys across all 10 fact-to-dimension relationships in the SQL integrity checks.
+
+One change was needed: Databricks enforces strict (ANSI) casting, so `prescription_duration_days` is cast to double before int.
+
+![Databricks Tables](images/databricks_tables.png)
+_The 11 Delta tables created in Unity Catalog under `workspace.healthcare`._
+
+![Databricks Integrity Check](images/databricks_integrity_check.png)
+_SQL integrity checks showing 0 orphan foreign keys across all fact-to-dimension relationships._
+
+![Databricks Job Run](images/databricks_job_run.png)
+_Successful run of the `run_healthcare_pipeline` Databricks Job._
+
+---
+
 ## Data Validation
 
 To ensure the correctness and integrity of the normalized data, a validation script is present in `validation/normalization_validation.py`. 
