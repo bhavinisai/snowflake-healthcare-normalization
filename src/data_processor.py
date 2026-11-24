@@ -339,9 +339,16 @@ class DataProcessor:
         )
 
         # joining secondary_diagnosis_id
-        secondary_df = self.df.select(
-            "secondary_diagnosis_code", "secondary_diagnosis_desc"
-        ).dropDuplicates()
+        secondary_df = (
+            self.df.select("secondary_diagnosis_code", "secondary_diagnosis_desc")
+            .filter(
+                (col("secondary_diagnosis_code").isNotNull())
+                & (col("secondary_diagnosis_desc").isNotNull())
+                & (col("secondary_diagnosis_code") != "")
+                & (col("secondary_diagnosis_desc") != "")
+            )
+            .dropDuplicates()
+        )
         secondary_df = secondary_df.withColumn(
             "secondary_diagnosis_id", row_number().over(w_secondary).cast("long")
         )
