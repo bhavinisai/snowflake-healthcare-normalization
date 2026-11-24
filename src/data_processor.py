@@ -143,7 +143,7 @@ class DataProcessor:
         dim_provider_df = self.df.select(
             "doctor_name", "doctor_title", "doctor_department"
         ).dropDuplicates()  # selecting relevant columns and removing duplicates
-        window_spec = Window.orderBy("doctor_name")
+        window_spec = Window.orderBy("doctor_name", "doctor_title", "doctor_department")
         dim_provider_df = dim_provider_df.withColumn(
             "provider_id",
             row_number()
@@ -159,7 +159,7 @@ class DataProcessor:
         dim_location_df = self.df.select(
             "clinic_name", "room_number"
         ).dropDuplicates()  # selecting relevant columns and removing duplicates
-        window_spec = Window.orderBy("clinic_name")  # ordering by clinic_name
+        window_spec = Window.orderBy("clinic_name", "room_number")  # ordering by clinic_name, room_number
         dim_location_df = dim_location_df.withColumn(
             "location_id",
             row_number()
@@ -175,7 +175,7 @@ class DataProcessor:
         dim_primary_diag_df = self.df.select(
             "primary_diagnosis_code", "primary_diagnosis_desc"
         ).dropDuplicates()  # selecting relevant columns and removing duplicates
-        window_spec = Window.orderBy("primary_diagnosis_code")
+        window_spec = Window.orderBy("primary_diagnosis_code", "primary_diagnosis_desc")
         dim_primary_diag_df = dim_primary_diag_df.withColumn(
             "primary_diagnosis_id",
             row_number()
@@ -200,7 +200,7 @@ class DataProcessor:
             )
             .dropDuplicates()  # removing null values and duplicates
         )
-        window_spec = Window.orderBy("secondary_diagnosis_code")
+        window_spec = Window.orderBy("secondary_diagnosis_code", "secondary_diagnosis_desc")
         dim_secondary_diag_df = dim_secondary_diag_df.withColumn(
             "secondary_diagnosis_id",
             row_number()
@@ -218,7 +218,7 @@ class DataProcessor:
         dim_treatment_df = self.df.select(
             "treatment_code", "treatment_desc"
         ).dropDuplicates()
-        window_spec = Window.orderBy("treatment_code")  # ordering by treatment_code
+        window_spec = Window.orderBy("treatment_code", "treatment_desc")  # ordering by treatment_code, treatment_desc
         dim_treatment_df = dim_treatment_df.withColumn(
             "treatment_id",
             row_number()
@@ -308,11 +308,11 @@ class DataProcessor:
         ).dropDuplicates(["visit_id"])
 
         # creating window specifications for row_number()
-        w_provider = Window.orderBy("doctor_name")
-        w_location = Window.orderBy("clinic_name")
-        w_primary = Window.orderBy("primary_diagnosis_code")
-        w_secondary = Window.orderBy("secondary_diagnosis_code")
-        w_treatment = Window.orderBy("treatment_code")
+        w_provider = Window.orderBy("doctor_name", "doctor_title", "doctor_department")
+        w_location = Window.orderBy("clinic_name", "room_number")
+        w_primary = Window.orderBy("primary_diagnosis_code", "primary_diagnosis_desc")
+        w_secondary = Window.orderBy("secondary_diagnosis_code", "secondary_diagnosis_desc")
+        w_treatment = Window.orderBy("treatment_code", "treatment_desc")
 
         # joining provider_id
         provider_df = self.df.select(
